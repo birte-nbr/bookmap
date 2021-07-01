@@ -1,5 +1,5 @@
 ID,Titel,Autor_in,Geburtsort,Breitengrad,Längengrad,Erscheinungsjahr,Iso-alpha,Groesse
-1,Harry Potter and the Philosopher's Stone,J.K. Rowling,"Yate, GB-ENG",51.544.207.212.180.300,-241.498.861.213.314,1997,GBR,30
+1,Harry Potter and the Philosopher's Stone,J.K. Rowling,"Yate, GB-ENG",51.544.207.212.180.300,-241.498.861.213.314,1997,GBR,1
 2,Harry Potter and the Chamber of Secrets,J.K. Rowling,"Yate, GB-ENG",51.544.207.212.180.300,-241.498.861.213.314,1998,GBR,30
 3,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,"Yate, GB-ENG",51.544.207.212.180.300,-241.498.861.213.314,1999,GBR,30
 4,Harry Potter and the Goblet of Fire,J.K. Rowling,"Yate, GB-ENG",51.544.207.212.180.300,-241.498.861.213.314,2000,GBR,30
@@ -7,12 +7,12 @@ ID,Titel,Autor_in,Geburtsort,Breitengrad,Längengrad,Erscheinungsjahr,Iso-alpha,
 6,Harry Potter and the Halfblood Prince,J.K. Rowling,"Yate, GB-ENG",51.544.207.212.180.300,-241.498.861.213.314,2005,GBR,30
 7,Harry Potter and the Deathly Hallows,J.K. Rowling,"Yate, GB-ENG",51.544.207.212.180.300,-241.498.861.213.314,2007,GBR,30
 8,The Tales of Beedle the Bard,J.K. Rowling,"Yate, GB-ENG",51.544.207.212.180.300,-241.498.861.213.314,2008,GBR,30
-9,The Danish Girl,David Ebershoff,"Los Angeles, USA",3.405.430.169.225.400,", -118.24698630774257",2000,USA,30
+9,The Danish Girl,David Ebershoff,"Los Angeles, USA",3.405.430.169.225.400,", -118.24698630774257",2000,USA,5
 10,The Selected Illustrated Works of Charles Dickens,Charles Dickens,"Portsmouth, GB-ENG",50.821.418.346.755.300,-1.090.209.448.692.860,2010,GBR,30
 11,The Name of the Rose,Umberto Eco,"Alessandria, IT",4.490.779.748.613.080,8.613.050.033.392.270,1980,ITA,30
 12,Brave New World,Aldous Huxley,"Godalming, GB-ENG",51.187.953.013.603.300,-6.136.841.254.870.930,1932,GBR,30
 13,"Talk, talk",T.C Boyle,"Peekskill, USA",412.865.452.361.351,-7.391.701.888.912.790,2006,USA,30
-14,The bad girl,Mario Vargas Llosa,"Arequipa, PE",-1.640.800.157.801.270,-7.153.815.397.754.600,2006,PER,30
+14,The bad girl,Mario Vargas Llosa,"Arequipa, PE",-1.640.800.157.801.270,-7.153.815.397.754.600,2006,PER,7
 15,Extremely Loud & Incredibly Close,Jonathan Safran Foer,"Washington D. C., USA",38.928.934.107.681.000,-7.700.428.780.263.450,2005,USA,30
 16,Ich soll nicht lügen,Sarah J. Naughton,-,,,2017,-,30
 17,"Girl, Woman, Other",Bernadine Evaristo,"London, GB-ENG",5.152.659.925.857.100,-1.139.950.691.281.670,2019,GBR,30
